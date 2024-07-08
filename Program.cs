@@ -8,6 +8,7 @@ namespace reversi
 {
     internal static class Program
     {
+
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
         /// </summary>
