@@ -21,5 +21,11 @@ namespace reversi
         {
 
         }
+
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
